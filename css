@@ -1,0 +1,81 @@
+body {background-image:url("/images/ak/akeodvn.jpg");
+margin-top: 100px;
+font-family: 'Didact Gothic', sans-serif;
+ }
+
+
+
+
+
+h1{text-align: Center;}
+p{text-align: Center;}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  }
+
+#navbar li {
+  float:left;
+}
+
+#navbar li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration:none;
+}
+/* change the link color to #111 (b) on hover */
+#navbar li a:hover {
+  background-color: #dbdbdb;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#navbar {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+#navbar li a {
+    color: #666;
+}
+
+
+
+
+
+
+.piperlogo{text-align: center;
+width:"100"; height:"100";}
+
+
+.profile{
+border-radius:130%;
+text-align: center;
+position:relative;
+left:50%;
+transform: translate(-50%, 0);}
+
+
+.boxed {
+  border: 20px black
+  border-radius:110%
+}
+
+.topofpage{background-image:url("b.jpg")
+}
